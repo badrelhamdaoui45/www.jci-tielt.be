@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Dec 2023 18:38:59 at https://jci-tielt.peepl.be/nl/site/?_gl=1*1lj4w5l*_ga*NDYwMDkzMzAuMTcwMjM5Nzg3MQ..*_ga_7C6N0WZ5Q3*MTcwMjM5Nzg3MS4xLjEuMTcwMjM5OTUwMy4xMi4wLjA. +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jci-tielt.peepl.be/nl/site/?_gl=1*1lj4w5l*_ga*NDYwMDkzMzAuMTcwMjM5Nzg3MQ..*_ga_7C6N0WZ5Q3*MTcwMjM5Nzg3MS4xLjEuMTcwMjM5OTUwMy4xMi4wLjA. -O1 "C:\My Web Sites\www.jci-tielt.be" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:42:38	Error: 	"Not Found" (404) at link https://static.peepl.io/static/frontpage/default/img/home-concept.png (from https://static.peepl.io/static/CACHE/css/02a7190afa2b.css)
+18:42:38	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/Banner_DEF_PowerPoint_33x19.jpg (from https://jci-tielt.peepl.be/nl/site/friend-food-fashion)
+18:42:39	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/news/6475/detail/IMG_3854.jpg (from https://jci-tielt.peepl.be/nl/site/news/6475/detail/)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/Popover requires tooltip.js (from https://static.peepl.io/static/CACHE/js/4636f19b98f4.js)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/gecko/ (from https://static.peepl.io/static/CACHE/js/4636f19b98f4.js)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/applewebkit/ (from https://static.peepl.io/static/CACHE/js/4636f19b98f4.js)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/mozilla/ (from https://static.peepl.io/static/CACHE/js/4636f19b98f4.js)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/+tnPath+ (from https://static.peepl.io/static/CACHE/js/4636f19b98f4.js)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/TweenLite.js (from https://static.peepl.io/static/frontpage/default/vendor/rs-plugin/js/jquery.themepunch.tools.min.js)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/site/Version/ (from https://static.peepl.io/static/frontpage/default/vendor/rs-plugin/js/jquery.themepunch.tools.min.js)
+18:42:44	Error: 	"OK" (404) at link https://jci-tielt.peepl.be/nl/TweenLite.js (from https://static.peepl.io/static/frontpage/default/vendor/rs-plugin/js/jquery.themepunch.tools.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 46 seconds : 361 links scanned, 349 files written (75413673 bytes overall) [73739372 bytes received at 326280 bytes/sec], 2526850 bytes transferred using HTTP compression in 59 files, ratio 26%, 1.3 requests per connection
+(11 errors, 0 warnings, 0 messages)

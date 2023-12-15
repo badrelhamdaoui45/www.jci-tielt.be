@@ -1,0 +1,71 @@
+.fc-event {
+    cursor: pointer;
+}
+.modal-body, .modal-header {
+    background-color: #EFEFEF;
+}
+
+.highlight-search {
+    background-color: yellow
+}
+
+.titleBar{
+    border-left: 4px solid #FBBA73;
+    background-color: #fff;
+    color:#394652;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.calendarViewbtn, .listViewbtn {
+    cursor: pointer;
+}
+
+.widget-summary .summary .info span {
+    vertical-align: baseline;
+}
+.basehomePageTitle{
+    display: none;
+}
+
+.fc-button .fc-icon {
+    font-size: 1em;
+}
+
+
+.fc .fc-widget-header{
+    padding: 3px 0;
+}
+
+.fc-event {
+    border: 1px solid #fbba73;
+    background-color: #fbba73;
+}
+.fc-content{
+    padding: 2px;
+}
+.fc td{
+    padding:2px;
+}
+
+@media screen and (max-width: 1200px) {
+    .d1 {
+        padding-right: 0px !important;
+    }.d2 {
+        margin-left: 15px;
+    }
+     #search_text{
+         display: none;
+     }
+    .searchicon{
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1108px) {
+    .summary-icon {
+        display: block !important;
+    }
+}

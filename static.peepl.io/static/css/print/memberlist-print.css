@@ -1,0 +1,260 @@
+/* Headings */
+h1,
+h2,
+h3,
+.h1,
+.h2,
+.h3 {
+	letter-spacing: -1px;
+}
+
+*{
+    font-size: 10px !important;
+}
+
+h1,
+.h1 {
+	font-size: 36px;
+	font-size: 3.6rem;
+}
+
+h2,
+.h2 {
+	font-size: 30px;
+	font-size: 3rem;
+}
+
+h3,
+.h3 {
+	font-size: 24px;
+	font-size: 2.4rem;
+}
+
+h4,
+.h4 {
+	font-size: 18px;
+	font-size: 1.8rem;
+}
+
+h5,
+.h5 {
+	font-size: 14px;
+	font-size: 1.4rem;
+}
+
+h6,
+.h6 {
+	font-size: 12px;
+	font-size: 1.2rem;
+	letter-spacing: 0;
+}
+
+.item{
+    float: left !important;
+    width: 33.33% !important;
+}
+
+.lr-lines{
+    border: none !important;
+    padding:0 !important;
+    height: 56px !important;
+}
+
+.oneRows {
+    width: 100% !important;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 0px;
+}
+.twoRows {
+    width: 100% !important;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 0px !important;
+}
+.threeRows {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 0px !important;
+}
+
+.panel-body{
+      font-size: 11px !important;
+    border:1px solid #E8E8E8;
+    height: 26px !important;
+}
+
+.panel-body p:last-child {
+    float:left;
+}
+
+.basePageTitle{
+
+    padding-top: 6px !important;
+    padding-bottom: 32px !important;
+}
+
+.customblue-a > .panel-body img{
+    display: none !important;
+    height: 40px !important;
+}
+
+.paddingLeft{
+    padding-left: 0px;
+}
+
+.firstP{
+    margin-top: 0px !important;
+    font-weight: bolder;
+}
+
+.firstP span {
+    font-weight: bolder !important;
+    border:none !important;
+}
+.col-md-3 p{
+    margin-left:6px !important;
+    margin-bottom: -5px !important;
+    float: left;
+}
+
+.div1 { width: 50%; height:40px; float:left;}
+.div2 { width: 50%; height:40px; float:left;}
+.div3 { width: 50%; height:40px; float:left;}
+.div4 { width: 50%; height:40px; float:left;}
+.hijackheader{display:none !important;}
+
+.threeRows{
+    width: 80%; height:auto; margin: 0 auto;
+    margin-bottom: 50px;
+}
+.w15{ width: 50% !important;}
+
+.twoRows{
+    width: 60%; height:auto; margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.inner-wrapper{
+    padding-top: 0 !important;
+}
+.content-body{
+    padding-top: 0 !important;
+}
+
+a:after {
+    display:none;
+}
+
+
+/*TIMELINE REMOVE*/
+.dashedCol{display:none;}
+.dashedHeader{display:none;}
+.header{display:none;}
+.page-header{display:none;}
+.ledenlijstFilter{display:none;}
+.sidebar-left{display:none;}
+.btn-transactie{display:none !important;}
+.colfactuur2{display:none !important;}
+.transactie{display:none !important;}
+.tm-icon{display:none !important;}
+
+
+
+.tm-title{border:none !important; margin:0 !important;text-align: left!important;}
+.headercol{height: 193px;}
+
+.tm-box{border:none !important;
+	min-height: 36px !important;
+	margin-left: -69px !important;
+}
+
+.col100 > span {
+      margin-left: 91px;
+}
+
+
+.tm-box .colfactuur {
+	font-size: 11px;
+)width: 80% !important;
+    height: 0px  !important;
+}
+
+.tm-datetime-date{
+	margin-left: 0px;
+	width: 200px;
+	font-size: 10px !important;
+	margin-top: 5px !important;
+}
+.tm-datetime-time{
+	font-size: 16px !important;
+	margin-top: -15px !important;
+
+
+}
+
+
+li{
+	margin: 0 !important;
+	border:1px solid #cccccc;
+	margin-bottom: 5px !important;
+	min-height: 20px !important;
+
+}
+h1{
+	font-size: 40px !important;
+	text-align: center;
+	margin-left: 0px !important;
+	margin-top: 0px !important;
+}
+
+.basePageTitle img{
+    height: 28px !important;
+}
+
+.row{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.btn {
+    left: 0% !important;
+
+    top: -7px !important;
+    margin-left: -9px !important;
+    text-align: left !important;
+    background-color: #cccccc !important;
+	border:none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.ulink{
+    color:#000;
+}
+
+.ledenlijst .btn{
+	border:none !important;
+    background-color: #FFFFFF !important;
+}
+
+.ledenlijst .col-md-3{
+    padding-right: 7px !important;
+}
+
+
+.pageTitle h4 {
+    margin-top: 7px !important;
+    margin-left: 9px !important;
+    font-size: 18px;
+    float: left;
+    width: 84% !important;
+}
+.panel{margin-bottom: 0px !important;}
+.pageTitle{ border: 1px solid #d9d9d9;}/**/
+
+
+.col-md-3{
+  width: 50% !important;
+  float: left;
+}

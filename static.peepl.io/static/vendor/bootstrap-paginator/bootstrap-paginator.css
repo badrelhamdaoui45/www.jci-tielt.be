@@ -1,0 +1,71 @@
+#paginator ul{
+    list-style-type: none;
+    display: block;
+    float: left;
+    text-align: center;
+    text-align: center;
+      padding-left: 0px;
+}
+#paginator li{
+    display: block;
+    float: left;
+}
+#paginator li a{
+    display: block;
+    float: left;
+    width: 34px;
+    height: 34px;
+    border: 1px solid #ddd;
+    text-align: center;
+    padding-top: 5px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    cursor: pointer;
+    background-color: #FDFDFD;
+    color:#777;
+    margin-left: -1px;
+}
+
+#paginator li:first-child a{
+    -webkit-border-top-left-radius-: 5px;
+    -moz-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius-: 5px;
+    -moz-border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+#paginator li:last-child a{
+    -webkit-border-top-right-radius-: 5px;
+    -moz-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius-: 5px;
+    -moz-border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#paginator a, #paginator a:hover,#paginator a:active,#paginator a:focus {
+    color: #777 !important;
+
+}
+
+#paginator{
+      display: inline-block;
+}
+
+#paginator .active a{
+    color: #ffffff !important;
+    background-color: #394652;
+}
+
+.pagination {
+  display: inline-block;
+  padding-left: 0;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+
+
+.centerpaginator{text-align: center;}
+

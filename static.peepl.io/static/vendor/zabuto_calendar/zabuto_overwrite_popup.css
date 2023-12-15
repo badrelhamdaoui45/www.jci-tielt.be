@@ -1,0 +1,27 @@
+.modal-backdrop.in {
+      opacity: 0.8;
+      filter: alpha(opacity=50);
+    }
+    .modal-content {
+        border:none
+        -webkit-border-radius: 0px;
+        -moz-border-radius: 0px;
+        border-radius: 0px;
+        -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.5);
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.5);
+        background-clip: padding-box;
+        outline: 0;
+    }
+    .close{
+        color:#838383;
+        opacity: 1;
+    }
+    .modal-footer{
+        border-top:none;
+    }
+    .modal-header{
+        border-bottom:none;
+    }
+    .modal-dialog{
+        top: 92px;
+    }
